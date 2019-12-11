@@ -6,7 +6,7 @@ description: Chatting to clients
 categories:
   - dashboard-overview
 resources:
-type: Video
+type: Document
 set: getting-started
 set_order: 2
 ---
