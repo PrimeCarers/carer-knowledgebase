@@ -1,5 +1,5 @@
 ---
-date: 2019-12-09
+date: 2019-12-02
 title: How to chat to clients
 video_id: 63aKlilMO0o
 description: Chatting to clients
