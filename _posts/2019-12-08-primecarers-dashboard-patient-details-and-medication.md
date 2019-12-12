@@ -13,8 +13,8 @@ set_order: 3
 
 ## Patient details and medications
 
-From the patients details section, you can write about the patient. This is shared with carer that you are currently working with. so that you don't have to repeat yourself.
+From the patients details section, you can select the patient you are seeing and see what the client has written about them (or themselves).
 
-From the medications section, you can create a medication schedule, so the carer know what medications are being delivered and when. This not only helps them know what they are taking and when, but also allows them to ensure that the right medications are being taken at the right times.
+From the medications section, you can see what medications they are on and what they are expected to take and when. This should help you to understand any of the risks you might face when caring for the patient as well as what you might be expected to remind them to take and at what time.
 
 If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624
