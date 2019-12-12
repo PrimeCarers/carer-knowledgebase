@@ -7,7 +7,7 @@ categories:
   - dashboard-detail
 resources:
 type: Document
-set: managing-your-care
+set: managing-your-clients
 set_order: 4
 ---
 

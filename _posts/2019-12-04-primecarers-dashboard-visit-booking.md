@@ -1,8 +1,8 @@
 ---
 date: 2019-12-04
-title: How to book a visit
+title: Paid visits
 video_id: 63aKlilMO0o
-description: Visit booking
+description: Paid visits
 categories:
   - dashboard-overview
 resources:
@@ -11,15 +11,17 @@ set: getting-started
 set_order: 4
 ---
 
-## How to book a visit
+## Paid visits
 
-Booking visits is essential to making PrimeCarers work for you. By booking a visits you let the carer know what will be asked of them, when and where. It will also initiate the contract between you and the carer, Insurance and Payments.
+Paid visits will be booked into your calendar by the client at the time you agree on. This allows us to make sure you get paid, are insured and are safe.
 
-Hit the book visit button
- - Select your carer
- - Select the type of care you need
- - Select the times and dates required
- - Review your order
- - Confirm and book you visit
+Remember to accept them, or else you wont get paid. The visit contains the location of the appointment, so it is important to look at it to know where you are going.
+
+Once the visit is over, remember to leave a short repot, which you can do through the platform by:
+ - Selecting the visit in the visits tab or in your calendar.
+ - Hitting the "Write report" button
+ - Enter a quick summary and hit submit.
+
+The client always appreciates a nice report, as it lets them know what you have done.
 
 If you have any questions, email us on admin@primecarers.co.uk or give us a call on 02033693624
